@@ -1,6 +1,6 @@
 # About Me
 
-- Software Engineer at note inc.
+- Software Engineer at note inc. (Intern)
 - Portfolio: https://k-hori.com
 
 [![](https://img.shields.io/twitter/follow/horri1520?style=social)](https://twitter.com/horri1520)
